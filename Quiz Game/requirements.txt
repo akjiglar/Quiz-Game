@@ -1,0 +1,4 @@
+Following 2 libraries in needed to be installed
+
+# pip install pyinquirer
+# pip install pyfiglet
